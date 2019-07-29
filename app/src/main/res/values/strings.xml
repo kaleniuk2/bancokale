@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banco Kale</string>
+    <string name="conta_corrente_tools">Conta Corrente (R$2.000,00)</string>
+    <string name="conta_poupanca_tools">Conta Poupança (R$ 12.350,00)</string>
+    <string name="de">de:</string>
+    <string name="para">para:</string>
+</resources>
